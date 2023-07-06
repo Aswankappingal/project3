@@ -1,0 +1,44 @@
+.Back{
+    background-image: url(../Images/morning-dew.jpg);
+    height: 900px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-color: transparent;
+    
+
+}
+.user table{
+    margin: auto;
+    color: white;
+    background-color: transparent;
+    
+}
+.Gender{
+    margin: 7%;
+    background-color: transparent;
+}
+.head{
+    color:white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+    padding: 30px;
+    padding-right: 25px;
+    background-color: transparent;
+}
+.btn input{
+    text-align: center;
+    background-color: transparent;
+    margin-left: 125px;
+    color: beige;
+}
+
+
+input{
+    background-color: transparent;
+    border-radius: 2px;
+    border-color: white;
+}
+
+
